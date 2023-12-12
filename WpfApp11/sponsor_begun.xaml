@@ -73,6 +73,5 @@
                 <Button Click="Home" Margin="5" Width="100" Height="30" Content="Отмена"/>
             </StackPanel>
         </StackPanel>
-        <!--asdasdadasdas Hilpy-->
     </Grid>
 </Page>
