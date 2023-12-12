@@ -44,8 +44,7 @@
                 <TextBlock HorizontalAlignment="Right" Grid.Row="5" FontSize="15" Text="CVC: "/>
                 <TextBox GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" FontSize="15" VerticalContentAlignment="Center" Margin="5" Grid.Column="1" Tag="Ваше имя" Text="Ваше имя"/>
                 <ComboBox Name="us" Margin="5" Grid.Row="1" Grid.Column="1" SelectedIndex="0" VerticalContentAlignment="Center">
-                    <ComboBoxItem Content="Иван Прудов - 204 (Russia)"/>
-                    <ComboBoxItem Content="Булат Сабиров - 227 (Russia)"/>
+                <ComboBoxItem Content="Корюкин Никита - 227 (Russia)"/>
                 </ComboBox>
                 <!--asdasdadasdas Hilpy-->
                 <TextBox GotFocus="TextBox_GotFocus" LostFocus="TextBox_LostFocus" VerticalContentAlignment="Center" FontSize="15" Margin="5" Grid.Column="1" Grid.Row="2" Text="Владелец карты" Tag="Владелец карты"/>
