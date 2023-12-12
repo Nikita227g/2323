@@ -17,7 +17,6 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
-            <!--asdasdadasdas Hilpy-->
         </Grid.ColumnDefinitions>
         <TextBlock Grid.ColumnSpan="2" Text="Спонсор бегуна" FontSize="20"/>
         <TextBlock Grid.ColumnSpan="2" Grid.Row="1" Text="Пожалуйста выберите бегуна, которого вы отели бы спонсировать и сумму, которую вы хотели бы спонсировать. Спасибо за вашу поддержку бегунов и их благотворительных учреждений." FontSize="20"/>
