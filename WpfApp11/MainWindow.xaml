@@ -19,6 +19,5 @@
         </StackPanel>
         <Button Click="logout_Click" Margin="0 0 10 0" HorizontalAlignment="Right" Width="70" Height="35" Content="Выйти"/>
         <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="15" Grid.Row="2">18 дней 8 часов и 17 минут до старта марафона!</TextBlock>
-        <!--asdasdadasdas Hilpy-->
     </Grid>
 </Window>
